@@ -22,3 +22,18 @@ R_* = Risk variables
 For example: ['B_30', 'B_38', 'D_114', 'D_116', 'D_117', 'D_120', 'D_126', 'D_63', 'D_64', 'D_66', 'D_68']
 
 ## Feature Engineering:
+	Imputation
+  Categorical Encoding
+  Scaling
+  Creating Features
+  Feature aggregation
+
+## Machine learning models:
+  KNN
+  SVM
+  lightGBM classifier
+  XGB classifier
+  Neural Network
+
+
+
